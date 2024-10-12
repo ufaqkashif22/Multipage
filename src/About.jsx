@@ -3,7 +3,7 @@ import Hero from "./components/Hero"
 
 const About = () => {
     const data= {
-        name:"vinod",
+        name:"Ufaq",
         images:"./images/about1.svg" 
     }
   return (

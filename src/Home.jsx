@@ -3,7 +3,7 @@ import Hero from "./components/Hero"
 
 const Home = () => {
     const data= {
-        name:"thapa technial",
+        name:"Ufaq Kashif",
         images:"./images/hero.svg" 
     }
   return (

@@ -27,7 +27,7 @@ const Footer = () => {
       <footer className="pt-28 pb-12 px-0  bg-black">
         <div className=" flex flex-row gap-20 pb-16 justify-center">
           <div className="footer-about">
-            <h3 className="text-white text-[1rem] mb-4">Thapa Technical</h3>
+            <h3 className="text-white text-[1rem] mb-4">Ufaq Kashif</h3>
             <p className="text-white">Lorem ipsum dolor,sit<br/>amet consectetur adipisicing elit.</p>
           </div>
           
@@ -76,7 +76,7 @@ const Footer = () => {
           <hr className="mb-8 text-white"/>
           <div className="flex justify-evenly">
             <p className="text-white">
-              @{new Date().getFullYear()} ThapaTechnical. All Rights Reserved
+              @{new Date().getFullYear()} UfaqKashif. All Rights Reserved
             </p>
             <div className="text-white">
               <p>PRIVACY POLICY</p>
